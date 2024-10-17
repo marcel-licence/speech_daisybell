@@ -1,6 +1,9 @@
-# speech_daisybell
-
-[YouTube](https://youtu.be/Pm4Z5yXaRCk)
+<h1 align="center">speech_daisybell</h1>
+<h3 align="center"> a simple Arduino project that synthesizes the classic song "Daisy Bell"</h3>  
+<p align="center"> 
+  <img src="img/splash.jpg" alt="project picture" width="480px" height="270px"><br>
+  <a href="https://youtu.be/Pm4Z5yXaRCk">link to the video</a>
+</p>
 
 `speech_daisybell` is a simple Arduino project that synthesizes the classic song "Daisy Bell" (aka *Bicycle Built for Two*) using software speech synthesis. The original code was sourced from a project hosted on Google Code Archive and has been updated to be compatible with newer platforms, allowing it to be compiled and run using the Arduino IDE.
 
